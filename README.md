@@ -4,7 +4,7 @@
 A site built only in html, no css.
 <br>
 
-- [x] Done for study purpose (Don't send me nothing from the contact me page);
+- [x] Done for study purpose (Don't send me personal data from the contact me page);
 
 - [x] Not using css;
 
